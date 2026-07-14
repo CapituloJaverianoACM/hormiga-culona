@@ -1,0 +1,15 @@
+.venv
+venv
+.env
+.vscode
+.env.DS_Store
+.DS_Store
+.pytest_cache
+__pycache__/
+**/__pycache__/
+*.pyc
+tests/audio/artifacts/
+tests/artifacts/
+tests/full_system_test/artifacts/
+data/raw/
+data/processed/
