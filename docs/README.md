@@ -1,17 +1,12 @@
 # Docs
 
-Use this folder for:
+Dentro de este folder se encontrara toda la informacion relacionada con el proyecto
+incluyendo informacion como:
 
-- setup instructions
-- architecture notes
-- API contracts
-- deployment steps
-- hackathon decisions and task breakdowns
+Proceso crisp-dm
 
-Suggested files as the project grows:
+Propuesta de valor
 
-- `setup.md`
-- `architecture.md`
-- `api.md`
-- `deploy.md`
-- `decisions.md`
+Aproach tecnologico
+
+Resultados
